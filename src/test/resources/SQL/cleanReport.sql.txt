@@ -1,0 +1,1 @@
+DELETE FROM tbl_service_report WHERE sr_technical_id='WTX-2' AND sr_service_id='service-02';
